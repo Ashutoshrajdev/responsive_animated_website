@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <>
     <footer className="w-100 bg-light  text-center">
-        <p style={{fontSize:'20px' ,marginTop:"115px"}}>© {year}  All Rights Reserved || Terms and Condition Applied.</p>
+        <p style={{fontSize:'20px', marginTop:"115px"}}>© {year}  All Rights Reserved || Terms and Condition Applied.</p>
     </footer>
     </>
   )
